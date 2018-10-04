@@ -1,0 +1,7 @@
+Data can move around the internet through packets of bits, bouncing from router to router until it has reached the destination. This can be done through wireless radio transmissions, fiberoptic cables, or even copper wires. For instance, bits can be sent through fiberoptic cables, bouncing through as beams of light. The cables are specifically engineered to reflect light as it goes through, making the connection very fast with no signal loss.
+
+The IP Address (Internet Protocal Address) is the designated number for the device used on the internet. Each device has an IP Address, acting as the identification for the destination where data can be sent or recieved. We can't keep track of 32 bit codes easily, so we use the DPS (Domain Name System) to associate an IP Address with a specific name. That way, the connection can be made between the device and the desired destination.
+
+A "Cookie" is how websites remember user information. Essentially, it is like an internet ID card.
+
+A URL (Uniform Resource Locator) can be broken down into a protocol, the communication type used between browser and server, domain name, the website identification title, and path, a directory or file.
