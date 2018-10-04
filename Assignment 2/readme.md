@@ -6,4 +6,4 @@ A Version Control System is like a backup system for coding. Every time you make
 It has been an interesting semester so far... I'm just catching up to the rest of the class. I didn't have too many issues with the coding aspect of the assignment, the most difficult learning the differences of text styles in markdown.
 
 ### Screenshots
-https://github.com/aunruh10/web-dev-hw/tree/master/Assignment%202
+[My Progress](./images/desktop_image.png)
