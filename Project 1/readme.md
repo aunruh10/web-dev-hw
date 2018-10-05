@@ -1,6 +1,6 @@
-#Technical Report
+# Technical Report
 
-##Browsers
+## Browsers
 I normally default to using Google Chrome on all devices, due to the connection I have with the products it provides.
 A Browser relays information from a web server through the network and interprets it to place on a user interface. It does this by use of a **rendering engine**, which structures the visuals of the page, and the **browser engine**, who directs actions between the UI and the rendering engine and/or external server communications.
 
