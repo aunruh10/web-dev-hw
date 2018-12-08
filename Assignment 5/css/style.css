@@ -1,1 +1,9 @@
+body {
+  background-color: inherit;
+  font-family: sans-serif;
+  text-align: center;
+}
+#panel {
+  align-self: center;
 
+}
