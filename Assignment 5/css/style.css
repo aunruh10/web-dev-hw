@@ -1,9 +1,13 @@
 body {
-  background-color: rgb(0,99,71);
+  background-color: white;
   font-family: sans-serif;
   text-align: center;
 }
-#panel {
-  align-self: center;
 
+.alignleft{
+  left: auto;
+}
+
+.alignright{
+  right: auto;
 }
