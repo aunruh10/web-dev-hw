@@ -17,11 +17,11 @@ body {
 
 }
 .aligncenter{
-  margin-left: 300px;
+  margin-left: 475px;
   background-color: lightgray;
   align-self: center;
   float: center;
   height: 900px;
   width: 600px;
-  z-index: 10;
+  z-index: -10;
 }
