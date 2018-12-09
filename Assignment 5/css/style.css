@@ -14,8 +14,6 @@ body {
   position: relative;
   float: left;
   align-content: left;
-  border-style: solid;
-  border-color: white;
   z-index: 5;
 }
 .aligncenter{
@@ -23,7 +21,7 @@ body {
   background-color: lightgray;
   align-self: center;
   float: center;
-  height: 1080px;
+  height: 900px;
   width: 600px;
   z-index: 10;
 }
