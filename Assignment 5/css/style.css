@@ -4,11 +4,11 @@ body {
   text-align: center;
 }
 
-#left{
+.alignleft{
   left: auto;
 }
 
-#right{
+.alignright{
   position: absolute;
   float: right;
 }
