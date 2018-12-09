@@ -9,6 +9,8 @@ body {
 }
 
 .alignright{
-  position: absolute;
   float: right;
+  align-content: center;
+  border-style: solid;
+  border-color: white;
 }
