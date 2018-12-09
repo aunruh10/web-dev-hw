@@ -18,10 +18,11 @@ z-index: 10;
 
 }
 .aligncenter{
-  margin-left: 500px;
+  margin-left: 450px;
   background-color: lightgray;
   align-self: center;
   float: center;
   height: 900px;
   width: 600px;
+  z-index: 5;
 }
