@@ -14,3 +14,10 @@ body {
   border-style: solid;
   border-color: white;
 }
+.aligncenter{
+  background-color: lightgray;
+  align-items: center;
+  float: center;
+  height: 1080px;
+  width: 600px;
+}
