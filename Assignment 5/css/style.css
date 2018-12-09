@@ -3,13 +3,14 @@ body {
 }
 
 .alignleft{
-  float: left;
-  align-content: left;
+  float: right;
+  align-content: right;
+
 }
 
 .alignright{
-  float: right;
-  align-content: right;
+  float: left;
+  align-content: left;
   border-style: solid;
   border-color: white;
 }
