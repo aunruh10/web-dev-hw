@@ -1,16 +1,16 @@
 body {
   background-color: white;
-  font-family: sans-serif;
-  text-align: center;
+
 }
 
 .alignleft{
   float: left;
+  align-content: left;
 }
 
 .alignright{
   float: right;
-  align-content: center;
+  align-content: right;
   border-style: solid;
   border-color: white;
 }
