@@ -6,6 +6,7 @@ body {
   position: relative;
   float: right;
   align-content: right;
+  z-index: 5;
 
 }
 
@@ -15,6 +16,7 @@ body {
   align-content: left;
   border-style: solid;
   border-color: white;
+  z-index: 5;
 }
 .aligncenter{
   position: relative;
@@ -23,4 +25,5 @@ body {
   float: center;
   height: 1080px;
   width: 600px;
+  z-index: 10;
 }
