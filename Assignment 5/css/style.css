@@ -19,7 +19,7 @@ body {
   z-index: 5;
 }
 .aligncenter{
-  margin: center;
+  margin-left: 600px;
   background-color: lightgray;
   align-self: center;
   float: center;
