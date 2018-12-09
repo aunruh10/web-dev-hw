@@ -3,18 +3,21 @@ body {
 }
 
 .alignleft{
+  position: relative;
   float: right;
   align-content: right;
 
 }
 
 .alignright{
+  position: relative;
   float: left;
   align-content: left;
   border-style: solid;
   border-color: white;
 }
 .aligncenter{
+  position: relative;
   background-color: lightgray;
   align-items: center;
   float: center;
