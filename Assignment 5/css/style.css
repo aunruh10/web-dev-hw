@@ -4,10 +4,10 @@ body {
 
 #center{
   background-color: lightgray;
-  align-self: center;
+  margin-right: 600px;
   height: 945px;
   width: 450px;
-  z-index: auto;
+  z-index: 5;
 }
 
 .alignleft{
