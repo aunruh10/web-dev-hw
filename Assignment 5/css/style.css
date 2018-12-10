@@ -2,6 +2,13 @@ body {
   background-color: white;
 }
 
+.foreground{
+  background-color: lightgray;
+  align-self: center;
+  height: 945px;
+  width: 450px;
+  
+}
 .alignleft{
   position: relative;
   float: left;
