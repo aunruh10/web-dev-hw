@@ -2,7 +2,7 @@ body {
   background-color: white;
 }
 
-.foreground{
+#center{
   background-color: lightgray;
   align-self: center;
   height: 945px;
