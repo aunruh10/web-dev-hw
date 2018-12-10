@@ -7,8 +7,9 @@ body {
   align-self: center;
   height: 945px;
   width: 450px;
-  
+  z-index: auto;
 }
+
 .alignleft{
   position: relative;
   float: left;
