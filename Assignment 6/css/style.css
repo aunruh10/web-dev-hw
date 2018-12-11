@@ -1,5 +1,3 @@
-body{
-  @font-face {
-    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-  }
+{
+  font-family: 'Raleway', sans-serif;
 }
