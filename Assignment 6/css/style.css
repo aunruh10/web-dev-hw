@@ -5,8 +5,8 @@
 body{
   background-color: rgb( 11, 14, 126);
 }
-.text{
+#story{
   background-color: lightgray;
-  text-decoration-color: White;
-  
+  align-content: center;
+
 }
