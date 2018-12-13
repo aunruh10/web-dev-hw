@@ -6,10 +6,12 @@
 }
 
 body{
-  background-color: rgb( 11, 14, 126);
+  background-color: rgb(16, 17, 56);
 }
 #story{
   background-color: lightgray;
+  opacity: 50%;
   align-content: center;
+  align-items: center;
 
 }
