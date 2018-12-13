@@ -12,18 +12,7 @@ body {
   z-index: 10;
 }
 
-.alignleft{
-  position: relative;
-  float: left;
-  align-content: right;
-  z-index: 5;
-
-}
-
-.alignright{
-  position: relative;
-  float: right;
-  align-content: left;
-  z-index: 5;
+p{
+  font-family: 'Raleway', sans-serif;
 
 }
