@@ -12,7 +12,7 @@ body{
 }
 #story{
   background-color: lightgray;
-  opacity: 50%;
+  opacity: : 0.5;
   align-content: center;
   align-items: center;
   width: 600px;
