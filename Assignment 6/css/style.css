@@ -15,14 +15,27 @@ body{
   margin-right: auto;
   margin-top: 105px;
 }
+h3{
+  margin-left: auto;
+  margin-right: auto;
+}
+h3::before{
+  content: url("../images/flapflap.gif");
+}
 #text{
 opacity: 1;
-
 font-family: 'Raleway', sans-serif;
  font-weight: normal;
  font-style: normal;
  font-size: 13pt;
  text-align: center;
+}
+
+p::first-letter{
+  font-family: 'Special Elite', cursive;
+  font-size:22pt;
+  color: purple;
+
 }
 
 #title{
