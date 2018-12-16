@@ -5,9 +5,23 @@ body {
 
 #center{
   background-color: lightgray;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
   align-items: center;
-  align-content: center;
-  height: 945px;
-  width: 450px;
-  z-index: 10;
+  height: 500px;
+  width: 650px;
+  opacity: 1;
+
+}
+
+h2{
+  text-align: center;
+  color: rgb(102, 176, 205)
+}
+
+#video{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
